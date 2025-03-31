@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "hello-world.html",
+    "href": "hello-world.html",
+    "title": "Jia Wen Cheng",
+    "section": "",
+    "text": "print('Hello, world')\n\nHello, world"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jia Wen Cheng",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
