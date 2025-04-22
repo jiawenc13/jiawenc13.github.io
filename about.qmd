@@ -1,7 +1,12 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi! My name is Jia. I am a recent graduate with a Bachelor of Business Studies degree specialised in Data Analytics, from Dublin City University. I have a strong interest in the field of data analytics and is curious of how analytics can make a change to the world. During the course of my studies, I have gained knowledge on multiple business aspects including supply chain management and operations management, and had hands on experiences on several programming tools like SQL, Power BI and Python. 
 
-'''welcome to my website
+As part of my course, I had the opportunity to go on INTRA, a one year internship where we've gained practical experience from building a CV, tackling through interviews, and getting offered a placement. My internship took place in Research Ireland, a funding company that funds researchers in the STEM area. I worked in the Programme Operations department, where I was able to get different multi aspects of experience from administrative tasks to logistics tasks. 
+
+
+
+
+CV
