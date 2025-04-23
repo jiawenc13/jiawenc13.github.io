@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Jia Wen Cheng"
+  favicon: assets/logo1.png
   navbar:
     left:
       - href: index.qmd
@@ -14,8 +15,12 @@ website:
         text: PROJECTS
       - href: blogs.qmd
         text: BLOGS
-      - href: media.qmd
-        text: MEDIA
+      - href: resources.qmd
+        text: RESOURCES
+      - icon: github
+        href: https://github.com/jiawenc13/jiawenc13.github.io
+        target: _blank
+
       - hello.qmd
 format:
   html:

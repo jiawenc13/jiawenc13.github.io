@@ -1,7 +1,15 @@
 ---
-title: "Jia Wen Cheng"
+image: assets/IMG_5752 2.JPG
+about:
+    template: j
+    links:
+        - icon: LinkedIn
+          text: LinkedIn
+          href: https://www.linkedin.com/in/jia-wen-cheng-2bba39265/
+          target: _blank
 ---
 
 Hi! I'm Jia.
 
-Welcome to my e-portfolio! This space is a reflection of my journey, experiences, and the skills I’ve developed throughout my time in college. Whether you’re here to explore my projects, learn more about my background, or just get a sense of who I am, I’m glad you stopped by. I’ve put this portfolio together to showcase not only what I’ve done, but how I approach challenges, collaborate with others, and continue growing in my field. Feel free to look around and I hope you find something that sparks your interest!
+Welcome to my e-portfolio! This space is a reflection of my journey, experiences, and the skills I’ve developed throughout my time in DCU. Whether you’re here to explore my projects, learn more about my background, or just get a sense of who I am, I’m glad you stopped by. Feel free to look around and I hope you find something that sparks your interest!
+
