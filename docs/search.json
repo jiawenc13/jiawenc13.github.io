@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi! My name is Jia. I am a recent graduate with a Bachelor of Business Studies degree specialised in Data Analytics, from Dublin City University. I have a strong interest in the field of data analytics and is curious of how analytics can make a change to the world. During the course of my studies, I have gained knowledge on multiple business aspects including supply chain management and operations management, and had hands on experiences on several programming tools like SQL, Power BI and Python.\nAs part of my course, I had the opportunity to go on INTRA, a one year internship where we’ve gained practical experience from building a CV, tackling through interviews, and getting offered a placement. My internship took place in Research Ireland, a funding company that funds researchers in the STEM area. I worked in the Programme Operations department, where I was able to get different multi aspects of experience from administrative tasks to logistics tasks.\nCV"
+    "text": "Hi! My name is Jia. I am a recent graduate with a Bachelor of Business Studies degree specialised in Data Analytics, from Dublin City University. I have a strong interest in the field of data analytics and is curious of how analytics can make a change to the world. During the course of my studies, I have gained knowledge on multiple business aspects including supply chain management and operations management, and had hands on experiences on several programming tools like SQL, Power BI and Python.\n\n\n\n\n  \n\nAs part of my course, I had the opportunity to go on INTRA, a year-long internship program that provided valuable hands-on experience. My internship took place at Research Ireland, a funding organization that supports researchers in the STEM fields. I was based in the Programme Operations department, where I gained valuable, multifaceted experience across both administrative and logistical tasks. This role allowed me to develop a well-rounded understanding of internal operations, while also strengthening my attention to detail, stakeholder engagement, and ability to adapt to a dynamic work environment. Throughout the placement, I developed key professional skills from building a strong CV and tackling through interviews, to working effectively in a professional environment. I gained confidence in both collaborative teamwork and taking individual responsibility for tasks and projects.\n\n\n\n\nLanguage Skills\n\n\n\nLanguage\nProficiency\n\n\n\n\nEnglish\nNative\n\n\nMandarin\nNative\n\n\nCantonese\nLimited Working Proficiency\n\n\nGerman\nBeginners\n\n\n\n\nCV"
   },
   {
     "objectID": "hello-world.html",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Jia Wen Cheng",
     "section": "",
-    "text": "Hi! I’m Jia.\nWelcome to my e-portfolio! This space is a reflection of my journey, experiences, and the skills I’ve developed throughout my time in DCU. Whether you’re here to explore my projects, learn more about my background, or just get a sense of who I am, I’m glad you stopped by. Feel free to look around and I hope you find something that sparks your interest!"
+    "text": "Welcome to my e-portfolio! This platform serves as a curated overview of my academic background, professional experiences, and personal projects. In this e-portfolio, you’ll find examples of my work, reflections on what I’ve learned, and insights into how I approach problem-solving, collaboration, and continuous improvement. Thank you for taking the time to explore my portfolio. I hope it gives you a meaningful sense of who I am and what I can bring to your team."
   },
   {
     "objectID": "projects.html",
@@ -26,5 +26,12 @@
     "title": "Projects",
     "section": "",
     "text": "test 123"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\nCV"
   }
 ]

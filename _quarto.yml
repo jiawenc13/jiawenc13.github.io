@@ -32,10 +32,14 @@ website:
 
 format:
   html:
+    page-layout: full
     theme:
       - Minty
+      - styles.scss
       - brand
+    mainfont: Montserrat
+      
 
     css: styles.css
-    toc: true
+    toc: false
 
