@@ -17,15 +17,23 @@ website:
         text: BLOGS
       - href: resources.qmd
         text: RESOURCES
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jia-wen-cheng-2bba39265/
+        target: _blank
       - icon: github
         href: https://github.com/jiawenc13/jiawenc13.github.io
         target: _blank
-
+      - icon: envelope
+        href: mailto:jia.cheng5@mail.dcu.ie
       - hello.qmd
+  page-footer:
+    center: © Jia Wen Cheng 2025
+
 format:
   html:
     theme:
-      - cosmo
+      - Minty
       - brand
     css: styles.css
     toc: true

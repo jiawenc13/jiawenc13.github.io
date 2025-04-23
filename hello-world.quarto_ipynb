@@ -1,0 +1,34 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "jupyter: python3\n",
+        "---"
+      ],
+      "id": "26b68e77"
+    },
+    {
+      "cell_type": "code",
+      "metadata": {},
+      "source": [
+        "print('Hello, world')"
+      ],
+      "id": "cd9ec775",
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/opt/anaconda3/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
