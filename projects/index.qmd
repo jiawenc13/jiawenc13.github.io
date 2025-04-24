@@ -1,0 +1,8 @@
+---
+title: "Projects"
+listing:
+  contents: /
+  type: grid
+  fields: ["image", "title", "categories", "description"]
+---
+

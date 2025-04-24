@@ -19,7 +19,7 @@ website:
             text: More About Me
       - href: skills.qmd
         text: SKILLS
-      - href: projects.qmd
+      - href: projects/index.qmd
         text: PROJECTS
       - href: reflections.qmd
         text: REFLECTIONS
@@ -34,7 +34,9 @@ website:
         target: _blank
       - icon: envelope
         href: mailto:jia.cheng5@mail.dcu.ie
-      - hello.qmd
+      - icon: file-earmark-text
+        href: assets/resume.pdf
+        target: _blank
 
   page-footer:
     center: © Jia Wen Cheng 2025

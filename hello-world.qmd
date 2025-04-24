@@ -1,9 +1,0 @@
----
-jupyter: python3
----
-
-```{python}
-print('Hello, world')
-```
-
-

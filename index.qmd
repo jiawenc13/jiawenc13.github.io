@@ -20,7 +20,6 @@ about:
         - icon: file-earmark-text
           text: CV
           href: assets/resume.pdf
-          target: _blank
     
 ---
 

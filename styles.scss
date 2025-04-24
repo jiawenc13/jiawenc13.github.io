@@ -2,12 +2,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 
-$body-bg: #5F8A8B;
-$navbar-fg: #2b6777;
-$navbar-hl: #5A7D7A;
-$navbar-bg: #FAFCFD;
+$body-bg: #ffffff;
+$navbar-fg: #b4dddb;
+$navbar-hl: #235462;
+$navbar-bg: #5F8A8B;
 $footer-bg: #ced4d2;
-$body-color: #FAFCFD;
+$body-color: #272828;
 $link-color: #a1cbeb;
 
 
@@ -16,15 +16,28 @@ $link-color: #a1cbeb;
 h1, h2 {
     letter-spacing: 5px;
     font-weight: 800;
-    color: #F2F2F2;
+    color: #2b6777;
   }
 
 
   h3, h4, h5, h6 {
-    color: #F2F2F2;
+    color: #2b6777;
   }
 
 .navbar .dropdown:hover .dropdown-menu {
     display: block;
     margin-top: 0;
 }
+
+.quarto-grid-item {
+  background-color: #82ada3;
+  border-radius: 10px;
+  padding: 0.8rem;
+  transition: transform 0.2s ease;
+}
+
+.quarto-grid-item:hover {
+  transform: scale(1.02);
+  background-color: #93bbb1;
+}
+
