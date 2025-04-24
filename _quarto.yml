@@ -9,12 +9,20 @@ website:
     left:
       - href: index.qmd
         text: HOME
-      - href: about.qmd
-        text: ABOUT ME
+      - text: ABOUT ME
+        menu:
+          - href: education.qmd
+            text: Education Overview
+          - href: intnvol.qmd
+            text: Internship & Volunteer
+          - href: moreaboutme.qmd
+            text: More About Me
+      - href: skills.qmd
+        text: SKILLS
       - href: projects.qmd
         text: PROJECTS
-      - href: blogs.qmd
-        text: BLOGS
+      - href: reflections.qmd
+        text: REFLECTIONS
       - href: resources.qmd
         text: RESOURCES
     right:
@@ -27,12 +35,13 @@ website:
       - icon: envelope
         href: mailto:jia.cheng5@mail.dcu.ie
       - hello.qmd
+  page-navigation: true
+
   page-footer:
     center: © Jia Wen Cheng 2025
 
 format:
   html:
-    page-layout: full
     theme:
       - Minty
       - styles.scss

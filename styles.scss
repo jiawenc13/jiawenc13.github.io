@@ -24,3 +24,7 @@ h1, h2 {
     color: #F2F2F2;
   }
 
+.navbar .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+}

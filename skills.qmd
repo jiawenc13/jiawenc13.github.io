@@ -1,0 +1,28 @@
+---
+title: Skills
+---
+
+
+---
+
+## Language
+
+| Language   | Proficiency                           |
+|----------------------|-----------------------------|
+| English              | Native Speaker              |
+| Mandarin (Chinese)   | Native Speaker              |
+| Cantonese (Chinese)  | Limited Working Proficiency |
+| German               | Beginners                   |
+
+: {.striped .hover}
+
+<br><br> 
+
+## Technological Skills
+
+
+## Professional Skills
+
+write a short description for each
+communications
+

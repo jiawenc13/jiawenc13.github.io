@@ -19,5 +19,20 @@
   },
   "resources.qmd": {
     "resources.html": "0a198910"
+  },
+  "education.qmd": {
+    "education.html": "76e99178"
+  },
+  "skills.qmd": {
+    "skills.html": "8698e8f4"
+  },
+  "moreaboutme.qmd": {
+    "moreaboutme.html": "a3af73d4"
+  },
+  "reflections.qmd": {
+    "reflections.html": "793c87de"
+  },
+  "intnvol.qmd": {
+    "intnvol.html": "3aeffec7"
   }
 }

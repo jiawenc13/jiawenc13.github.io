@@ -2,9 +2,9 @@
 image: assets/headshot1.JPG
 toc: false 
 about:
-    template: jolla
-    image-shape: rounded
-    image-width: 10cm
+    template: trestles
+    image-shape: round
+    image-width: 8cm
     links:
         - icon: linkedin
           text: LinkedIn
@@ -19,8 +19,18 @@ about:
           href: mailto:jia.cheng5@mail.dcu.ie
     
 ---
-::: {#hero-heading}
-# Jia Wen Cheng
----
-Welcome to my e-portfolio! This platform serves as a curated overview of my academic background, professional experiences, and personal projects. In this e-portfolio, you’ll find examples of my work, reflections on what I’ve learned, and insights into how I approach problem-solving, collaboration, and continuous improvement. Thank you for taking the time to explore my portfolio. I hope it gives you a meaningful sense of who I am and what I can bring to your team.
 
+# Jia Wen Cheng
+
+<div>
+<p>
+Welcome to my e-portfolio! This platform serves as a curated overview of my academic background, professional experiences, and personal projects. 
+</p>
+</div>
+<p>
+In this portfolio, you’ll find examples of my work, reflections on what I’ve learned, and insights into how I approach problem-solving, collaboration, and continuous improvement. 
+</p>
+<div>
+<p>
+Thank you for taking the time to explore my portfolio. I hope it gives you a meaningful sense of who I am and what I can bring to your team.
+</p>
