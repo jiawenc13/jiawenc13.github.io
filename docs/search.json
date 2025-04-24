@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Duis ornare ex ac iaculis pretium. Maecenas sagittis odio id erat pharetra, sit amet consectetur quam sollicitudin. Vivamus pharetra quam purus, nec sagittis risus pretium at. Nullam feugiat, turpis ac accumsan interdum, sem tellus blandit neque, id vulputate diam quam semper nisl. Donec sit amet enim at neque porttitor aliquet. Phasellus facilisis nulla eget placerat eleifend. Vestibulum non egestas eros, eget lobortis ipsum. Nulla rutrum massa eget enim aliquam, id porttitor erat luctus. Nunc sagittis quis eros eu sagittis. Pellentesque dictum, erat at pellentesque sollicitudin, justo augue pulvinar metus, quis rutrum est mi nec felis. Vestibulum efficitur mi lorem, at elementum purus tincidunt a. Aliquam finibus enim magna, vitae pellentesque erat faucibus at. Nulla mauris tellus, imperdiet id lobortis et, dignissim condimentum ipsum. Morbi nulla orci, varius at aliquet sed, facilisis id tortor. Donec ut urna nisi."
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sagittis posuere ligula sit amet lacinia. Duis dignissim pellentesque magna, rhoncus congue sapien finibus mollis. Ut eu sem laoreet, vehicula ipsum in, convallis erat. Vestibulum magna sem, blandit pulvinar augue sit amet, auctor malesuada sapien. Nullam faucibus leo eget eros hendrerit, non laoreet ipsum lacinia. Curabitur cursus diam elit, non tempus ante volutpat a. Quisque hendrerit blandit purus non fringilla. Integer sit amet elit viverra ante dapibus semper. Vestibulum viverra rutrum enim, at luctus enim posuere eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
   },
   {
     "objectID": "about.html#skills",
@@ -53,7 +53,7 @@
     "href": "education.html",
     "title": "Education Overview",
     "section": "",
-    "text": "Hi! My name is Jia. I am a recent graduate with a Bachelor of Business Studies degree specialised in Data Analytics, from Dublin City University. I have a strong interest in the field of data analytics and is curious of how analytics can make a change to the world. During the course of my studies, I have gained knowledge on multiple business aspects including marketing, supply chain management and operations management, and had hands on experiences on several programming tools like SQL, Power BI and Python. During my college journey, I’ve also had the privilege to take part in the Dragon Dens presentation, where we get to learn and experience of just an overview of what it takes to become an entrepreneur. With a strong foundation in both business and analytics field, I believe that I can bridge the gap between technical insights and strategic decision-making, ultimately contributing to more informed, efficient, and impactful business solutions.\n\n\n\n  \n\n\n\nAs part of my course in Business Studies, I had the opportunity to go on INTRA, a year-long internship program that provided valuable hands-on experience in a professional environment. Throughout the placement, I have developed key professional skills from building a strong CV and tackling through interviews, to working effectively in a professional environment.\nMy internship took place at Research Ireland, a funding organisation that supports researchers in the STEM fields in Ireland. I worked in the Programme Operations department, where I gained valuable, multifaceted experience across both administrative and logistical tasks. Throughout the internship, I had the opportunity to work with a range of tools, including Microsoft Excel, Word, Tableau and the company’s grants and awards management system, which helped strengthen my technical and organizational skills in a professional setting. This role has allowed me to develop a well-rounded understanding of internal operations, while also strengthening my time management skills, stakeholder engagement, and ability to adapt to a dynamic work environment. I gained confidence in both collaborative teamwork and taking individual responsibility for tasks and projects."
+    "text": "Hi! My name is Jia. I am a recent graduate with a Bachelor of Business Studies degree specialised in Data Analytics, from Dublin City University. I have a strong interest in the field of data analytics and is curious of how analytics can make a change to the world. During the course of my studies, I have gained knowledge on multiple business aspects including marketing, supply chain management and operations management, and had hands on experiences on several programming tools like SQL, Power BI and Python. During my college journey, I’ve also had the privilege to take part in the Dragon Dens presentation, where we get to learn and experience of just an overview of what it takes to become an entrepreneur. With a strong foundation in both business and analytics field, I believe that I can bridge the gap between technical insights and strategic decision-making, ultimately contributing to more informed, efficient, and impactful business solutions."
   },
   {
     "objectID": "skills.html",
@@ -81,7 +81,7 @@
     "href": "moreaboutme.html",
     "title": "More About Me",
     "section": "",
-    "text": "Born in Ireland family from China, from both north and south so my taste budsuits both cuisine!\nin college, i an an ordinary member as part of the table tennis society club. i was a member of archery and badminton\nlike listening to music and singing plays guitar musical"
+    "text": "Born in Ireland family from China, from both north and south so my taste budsuits both cuisine!\nin college, i an an ordinary member as part of the table tennis society club. i was a member of archery and badminton\nlike listening to music and singing plays guitar musical\nim starting to get into podcasts to learn languages and analytics - spotify"
   },
   {
     "objectID": "intnvol.html#language",
@@ -103,5 +103,12 @@
     "title": "Skills",
     "section": "Professional Skills",
     "text": "Professional Skills\nwrite a short description for each communications"
+  },
+  {
+    "objectID": "intnvol.html",
+    "href": "intnvol.html",
+    "title": "Internship & Volunteer",
+    "section": "",
+    "text": "As part of my course in Business Studies, I had the opportunity to go on INTRA, a year-long internship program that provided valuable hands-on experience in a professional environment. Throughout the placement, I have developed key professional skills from building a strong CV and tackling through interviews, to working effectively in a professional environment.\nMy internship took place at Research Ireland, a funding organisation that supports researchers in the STEM fields in Ireland. I worked in the Programme Operations department, where I gained valuable, multifaceted experience across both administrative and logistical tasks. Throughout the internship, I had the opportunity to work with a range of tools, including Microsoft Excel, Word, Tableau and the company’s grants and awards management system, which helped strengthen my technical and organizational skills in a professional setting. This role has allowed me to develop a well-rounded understanding of internal operations, while also strengthening my time management skills, stakeholder engagement, and ability to adapt to a dynamic work environment. I gained confidence in both collaborative teamwork and taking individual responsibility for tasks and projects."
   }
 ]

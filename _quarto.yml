@@ -35,7 +35,6 @@ website:
       - icon: envelope
         href: mailto:jia.cheng5@mail.dcu.ie
       - hello.qmd
-  page-navigation: true
 
   page-footer:
     center: © Jia Wen Cheng 2025
@@ -47,6 +46,7 @@ format:
       - styles.scss
       - brand
     mainfont: Montserrat
+    
       
 
     css: styles.css

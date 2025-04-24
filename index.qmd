@@ -17,6 +17,10 @@ about:
         - icon: envelope
           text: Email
           href: mailto:jia.cheng5@mail.dcu.ie
+        - icon: file-earmark-text
+          text: CV
+          href: assets/resume.pdf
+          target: _blank
     
 ---
 
