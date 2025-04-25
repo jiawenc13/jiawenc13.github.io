@@ -20,9 +20,49 @@ title: Skills
 
 ## Technological Skills
 
+<p>MS Excel</p>
+<div class="container">
+  <div class="skills excel">98%</div>
+</div>
+
+<p>Tableau</p>
+<div class="container">
+  <div class="skills tableau">80%</div>
+</div>
+
+<p>SQL</p>
+<div class="container">
+  <div class="skills sql">70%</div>
+</div>
+
+<p>Python</p>
+<div class="container">
+  <div class="skills python">67%</div>
+</div>
+
+<p>Machine Learning</p>
+<div class="container">
+  <div class="skills ml">65%</div>
+</div>
+
+<p>Power BI</p>
+<div class="container">
+  <div class="skills powerbi">35%</div>
+</div>
+
+
+
 
 ## Professional Skills
+
+
 
 write a short description for each
 communications
 
+
+
+
+
+
+<https://www.w3schools.com/howto/howto_css_skill_bar.asp> 

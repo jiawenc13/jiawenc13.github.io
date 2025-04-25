@@ -1,3 +1,12 @@
 ---
-title: "Research Paper: Heart Attack Prediction"
+title: "Deep Dive - E-Waste: A Problem That is Being Forgotten. A Problem We’ve All Contributed To"
+description: "This project explores the critical aspects of E-Wastes."
+author: "Jia Wen Cheng"
+categories: [Business, Sustainability, Responsible Management]
+image: "../../assets/photo4.PNG"
 ---
+---
+<br><br>
+This is a 
+
+<iframe src="../../assets/project4.pdf" width="110%" height="600px"></iframe>
