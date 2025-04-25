@@ -27,11 +27,11 @@ This section features a collection of multimedia resources, such as tutorials th
 
 **"Desicion Tree: Important things to know" by Intuitive Machine Learning**
 
-[![](../../assets/youtube1.png)](https://www.youtube.com/watch?v=JcI5E2Ng6r4)
+[![](../assets/youtube1.png)](https://www.youtube.com/watch?v=JcI5E2Ng6r4){target="_blank"}
 
 **"StatQuest: Logistics Regression" by StatQuest with Josh Starmer**
 
-[![](../../assets/youtube2.png)](https://www.youtube.com/watch?v=yIYKR4sgzI8&t=189s)
+[![](../assets/youtube2.png)](https://www.youtube.com/watch?v=yIYKR4sgzI8&t=189s)
 
 <br>
 
