@@ -1,9 +1,0 @@
----
-title: "INTRA Reflective Diary 1"
-description: ""
-author: "Jia Wen Cheng"
-date: "02/10/2023"
-image: "../../assets/photo1.PNG"
----
-
-rgjlkrdgjbklsbm

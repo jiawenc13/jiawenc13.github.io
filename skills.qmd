@@ -7,7 +7,7 @@ title: Skills
 
 ## Language
 
-| Language   | Proficiency                           |
+| Language             | Proficiency                 |
 |----------------------|-----------------------------|
 | English              | Native Speaker              |
 | Mandarin (Chinese)   | Native Speaker              |
@@ -51,42 +51,15 @@ title: Skills
 </div>
 
 
-
+<br><br> 
 
 ## Professional Skills
 
-## 🤝 Professional Skills
 
-<div class="skills-grid">
-
-  <div class="skill-card">
-    <i class="bi bi-chat-dots-fill" style="font-size: 2rem; color: #004d99;"></i>
-    <h4>Communication</h4>
-    <p>Confident in written and verbal communication, including presenting data insights to both technical and non-technical audiences.</p>
-  </div>
-
-  <div class="skill-card">
-    <i class="bi bi-people-fill" style="font-size: 2rem; color: #004d99;"></i>
-    <h4>Stakeholder Engagement</h4>
-    <p>Worked with academic and professional mentors to gather feedback and align project outcomes with user needs.</p>
-  </div>
-
-  <div class="skill-card">
-    <i class="bi bi-person-check-fill" style="font-size: 2rem; color: #004d99;"></i>
-    <h4>Teamwork</h4>
-    <p>Collaborated in diverse group projects, sharing responsibilities, giving feedback, and resolving conflicts effectively.</p>
-  </div>
-
-  <div class="skill-card">
-    <i class="bi bi-hourglass-split" style="font-size: 2rem; color: #004d99;"></i>
-    <h4>Time Management</h4>
-    <p>Balanced academic, internship, and extracurricular workloads by planning ahead and meeting all deadlines.</p>
-  </div>
-
-  <div class="skill-card">
-    <i class="bi bi-lightbulb-fill" style="font-size: 2rem; color: #004d99;"></i>
-    <h4>Problem Solving</h4>
-    <p>Applied analytical thinking to identify issues, break down tasks, and develop data-driven solutions in both coursework and projects.</p>
-  </div>
-
-</div>
+| Skills                        | Descriptions                |
+|-------------------------------|-----------------------------|
+| Communication                 | Effectively communicated both in person and through digital platforms across academic and professional settings.|
+| Stakeholder Engagement        | Collaborated with both internal and external stakeholders during internship effectively and efficiently.|
+| Teamwork                      | Contributed to groups projects in both academic and professional settings.|
+| Time Management               | Successfully managed responsibilities across multiple funding programme teams simutaneously within tight deadlines.|
+| Adaptability                  | Quickly adapted to new tools, platforms, and workflows in dynamic academic and professional environments.|

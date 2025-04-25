@@ -21,8 +21,8 @@ website:
         text: SKILLS
       - href: projects/index.qmd
         text: PROJECTS
-      - href: reflections/index.qmd
-        text: REFLECTIONS
+      - href: media_blog.qmd
+        text: MEDIA & BLOGS
       - href: resources.qmd
         text: RESOURCES
     right:

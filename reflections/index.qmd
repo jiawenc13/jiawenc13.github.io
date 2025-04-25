@@ -1,7 +1,0 @@
----
-title: "Reflections"
-listing:
-  contents: /
-  type: default
-  categories: false
----
