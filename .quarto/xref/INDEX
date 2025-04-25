@@ -88,5 +88,20 @@
   },
   "resources/index.qmd": {
     "index.html": "ba323f45"
+  },
+  "projects/project_4.qmd": {
+    "project_4.html": "02c2b9d3"
+  },
+  "projects/project_5.qmd": {
+    "project_5.html": "e4c58834"
+  },
+  "projects/project_1.qmd": {
+    "project_1.html": "d990b135"
+  },
+  "projects/project_2.qmd": {
+    "project_2.html": "19510d69"
+  },
+  "projects/project_3.qmd": {
+    "project_3.html": "d8c5481c"
   }
 }

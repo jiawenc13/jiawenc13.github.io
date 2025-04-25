@@ -1,9 +1,9 @@
 ---
 title: "Projects"
 listing:
-  contents: list
+  contents: /
   type: grid
-  fields: ["image", "title", "categories", "description"]
+  fields: [image, title, categories, description]
   sort-ui: false
   filter-ui: false
 ---
