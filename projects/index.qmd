@@ -4,5 +4,12 @@ listing:
   contents: /
   type: grid
   fields: ["image", "title", "categories", "description"]
+  sort-ui: false
+  filter-ui: false
 ---
+
+---
+
+This sections contains key projects that I have completed during my college journey.
+<br><br>
 

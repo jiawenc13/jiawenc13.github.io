@@ -1,0 +1,10 @@
+---
+title: "Curriculum Vitae"
+---
+
+---
+<br>
+<iframe src="assets/resume.pdf" width="100%" height="800px"></iframe>
+
+
+<https://stackoverflow.com/questions/76421208/embed-a-webpage-in-quarto-html>

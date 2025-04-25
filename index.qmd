@@ -27,7 +27,7 @@ about:
 
 <div>
 <p>
-Welcome to my e-portfolio! This platform serves as a curated overview of my academic background, professional experiences, and personal projects. 
+Welcome to my e-portfolio! I'm Jia. This platform serves as a curated overview of my academic background, professional experiences, and personal projects. 
 </p>
 </div>
 <p>

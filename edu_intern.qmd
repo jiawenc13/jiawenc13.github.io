@@ -1,0 +1,26 @@
+---
+title: "Education & Internship"
+---
+
+---
+
+### Education Overview
+
+<div> 
+  <p>
+I am a recent graduate with a Bachelor of Business Studies degree specialised in Data Analytics, from [Dublin City University (DCU)](hhttps://www.dcu.ie/). I have a strong interest in the field of data analytics and is curious of how analytics can make a change to the world. During the course of my studies, I have gained knowledge on multiple business aspects including marketing, HRM, supply chain management and operations management, and had hands on experiences on several programming tools like SQL, Power BI and Python. With a strong foundation in both business and analytics field, I believe that I can bridge the gap between technical insights and strategic decision-making, ultimately contributing to more informed, efficient, and impactful business solutions.
+
+A recent highlight of my university journey is that I had the opportunity to participate in a Dragons Den style presentation, which provided valuable insight into the entrepreneurial process. This experience provided a hands-on introduction to developing a business idea, pitching to potential investors (i.e. panels of Dragons), and navigating the challenges and creativity required to launch a new product/service. This experience was both challenging and rewarding, as it gave me a hands-on understanding of what it takes to bring an idea to life, from identifying market needs to delivering a compelling pitch. It also strengthened my skills in teamwork, communication, problem-solving, and strategic thinking. If you're interested in reading more about my reflections on this experience, please feel free to visit this page for a deeper insight.
+  </p>
+</div>
+
+### Internship
+
+<div>
+  <p>
+As part of my course in Business Studies, I had the opportunity to go on INTRA, a year-long internship program that provided valuable hands-on experience in a professional environment. Throughout the placement, I have developed key professional skills from building a strong CV and tackling through interviews, to working effectively in a professional environment. 
+
+My internship took place at Research Ireland, a funding organisation that supports researchers in the STEM fields in Ireland. I worked in the Programme Operations department, where I gained valuable, multifaceted experience across both administrative and logistical tasks. Throughout the internship, I had the opportunity to work with a range of tools, including Microsoft Excel, Word, Tableau, and the company’s grants and awards management system. This experience not only strengthened my technical and organisational abilities but also enhanced my ability to quickly adapt to new systems and workflows in a professional environment. This role has allowed me to develop a well-rounded understanding of internal operations, while also strengthening my time management skills, stakeholder engagement, and ability to adapt to a dynamic work environment. I gained confidence in both collaborative teamwork and taking individual responsibility for tasks and projects.
+  </p>
+</div>
+

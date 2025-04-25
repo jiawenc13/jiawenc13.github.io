@@ -1,3 +1,34 @@
 ---
-title: "Project 2"
+title: "E-Waste: A Problem That is Being Forgotten. A Problem That We've All Contributed To"
+description: "An op-ed piece on E-wastes, where we have ignored."
+author: "Jia Wen Cheng"
+categories: [Business, Sustainability]
+image: "../../assets/photo2.PNG"
 ---
+
+
+
+I didn’t think I was part of a problem. A problem that always exists and quietly growing but being ignored and forgotten. Like most people, I get excited when I buy a new phone. But the truth is, a lot of the time, the reason for buying the new was not to replace something that’s broken, but because it’s the newer trend. Suddenly, I feel that my camera quality is not good enough. Suddenly, I want a phone with five camera lenses, even though I only ever use one, but it looks cool. Suddenly, my current phone feels old. Suddenly, these small, insignificant details have become my excuse for buying the new phone. The old phone, which still functions perfectly, is now abandoned. 
+
+
+Now, what is the true cost of my irrational purchase? Was it just the money that has left my pocket? No, it’s more than that. There is an environmental cost that we’ve never considered. E-wastes. 62 million tonnes of electronic wastes (e-wastes) were generated globally in 2022. That includes all disregarded electronic devices such as laptops, television, household appliances and of course, smartphones. Though a portion of these may be labelled as ‘recycled’, statistics have shown that only 22.3%, which is less than a quarter of the year’s e-waste, are actually properly recycled. The rest still ends up either in the landfills or is exported to developing countries, where devices are dismantled in informal settings. Often, this dangerous work is done by children or unprotected workers, who are exposed to toxic materials such as lead, which puts their health and lives at serious risk.
+
+
+What shocked me the most wasn’t this massive number of statistics, but how unconsciously I’ve been contributing to this major world issue.
+
+
+We live in a culture that subtly rewards consumption. For instance, every time when a new iPhone is released, we hear the voices and discussions about it around us, making us feel like if we don’t keep up, we are falling behind. But have we ever questioned “Do I really need a new phone?”, “Is my current one broken?”. What contributed to covering these voices are the business model that thrives on overproduction. Technology companies, driven by profit, are producing new models of a product chain more frequently now which influences consumers to purchase the new model before their current devices reach the end of their lifespan. This means that some of these phones would unnecessarily end up in the landfill. 
+
+Take Apple, for instance, their new models in recent years have been released with minor upgrades. However, due to the psychological effect of perceived obsolescence, consumers begin to believe that older models are outdated and no longer good enough, despite the fact that they still function perfectly. Furthermore, tech companies have started pricing new models lower than the previous models, influencing consumers to purchase the newer model. This tactic leads sales to their newer product, and once sales drop in the older models, these older models are quietly pulled from the production and their focus can be placed again on developing a new model.
+
+
+And what if some customers resist the hype and care about durability and better functionality rather than the tech trend? That’s where planned obsolescence comes in. Planned obsolescence is a strategy where products are deliberately designed to have a limited lifespan. A common example is the battery issues. Smartphone batteries often degrade quickly and cannot be replaced easily, meaning that if the battery is worn out, the whole device would have to be replaced. Now another phone is being wasted.
+
+
+Now, back to the question, how do we, as consumers, exactly contribute to the production of e-waste other than being led by businesses? Does business take all the blame? My answer is no. Businesses cannot generate profit from a product without consumer demand. At the heart of this behaviour is a cultural force we rarely stop to question: consumerism. This is the belief that buying and owning things can bring us happiness, success and a sense of self-worth. So, the more we buy, the happier we are. This culture we live in plays a huge role in shaping the tech demands. In this culture, a phone isn’t just a phone, it’s a symbol for status, a way to stay connected, and a source of belonging. This mindset has transformed this demand from a need, to a desire. This is a key driving factor that fuels the continuous demand for new electronic devices, creating a cycle of overconsumption that ultimately leads to the growing crisis of e-waste.
+
+
+I believe the solution to this does not lie in blaming consumers or demonising businesses. The issue of e-waste is a shared responsibility. Companies respond to what we demand, and we, in turn, respond to what they produce. It’s a cycle. For decades, we have celebrated the acceleration of innovation and the evolution of technology. While that achievement is something we should definitely be proud of, perhaps it’s also time for us to pause - to recognise not only what we have gained, but also what we are losing in the process.
+
+
+Maybe the starting point for solving this issue isn’t a major policy shift, or a cease in innovation. Maybe it begins with something much simpler: us, as consumers. What if we paused before we buy, asking ourselves, “Do I really need this product?”, “Is it a need, or is it just a passing desire that will fade once a newer trend appears?”. The first step is awareness; it’s becoming more mindful of how our everyday decisions contribute to the bigger picture. And from that awareness, changes begin.

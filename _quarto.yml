@@ -11,10 +11,10 @@ website:
         text: HOME
       - text: ABOUT ME
         menu:
-          - href: education.qmd
-            text: Education Overview
-          - href: intnvol.qmd
-            text: Internship & Volunteer
+          - href: resume.qmd
+            text: CV
+          - href: edu_intern.qmd
+            text: Education & Internship
           - href: moreaboutme.qmd
             text: More About Me
       - href: skills.qmd

@@ -52,5 +52,14 @@
   },
   "projects/list2/project_4.qmd": {
     "project_4.html": "9b34a4a5"
+  },
+  "projects/list/project_4.qmd": {
+    "project_4.html": "6c12dc58"
+  },
+  "resume.qmd": {
+    "resume.html": "7592f655"
+  },
+  "edu_intern.qmd": {
+    "edu_intern.html": "7eafbe4e"
   }
 }
