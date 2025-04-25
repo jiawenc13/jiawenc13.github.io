@@ -1,9 +1,193 @@
 ---
-title: "Research Paper: Heart Attack Risk Prediction"
-description: "This research paper discusses the experimenting of three machine learning algorithms applied on a dataset from kaggle."
+title: "Data Preprocessing of Heart Attack Risk Prediction Datasets"
+description: "Demostrates the steps I took for cleaning and preprocessing datasets before applying ML models"
 author: "Jia Wen Cheng"
 categories: [Data Analytics, Machine Learning, Data]
 image: "../../assets/photo5.jpg"
 ---
 
 ---
+This section is using the [Heart Attack Risk Prediction Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset){target="_blank"} from Kaggle.
+
+
+#### Import Library
+
+```{.python}
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
+#### Select the dataset file on your computer
+
+```{.python}
+from google.colab import files
+uploaded = files.upload()
+```
+
+#### Read the file
+
+```{.python}
+df = pd.read_csv('heart_attack.csv')
+```
+
+#### Generate table overview of dataset
+
+```{.python}
+df.head()
+```
+
+#### Count the value of positive and negative output
+
+```{.python}
+df['Heart Attack Risk'].value_counts(normalize=True)
+```
+
+#### Identify duplicates
+
+```{.python}
+duplicates = df[df.duplicated()]
+print ("Duplicate Rows:\n", duplicates)
+```
+
+#### Identify null values
+
+```{.python}
+df.isnull().sum()
+```
+
+#### Drop the frst column
+
+```{.python}
+df = df.drop(df.columns[[0]], axis = 1)
+```
+
+#### Perform feature engineering
+
+```{.python}
+df[['Systolic Blood Pressure', 'Diastolic Blood Pressure']] = df['Blood Pressure'].str.split('/', expand=True)
+```
+#### Change from string data to interger
+
+```{.python}
+df[['Systolic Blood Pressure', 'Diastolic Blood Pressure']] = df[['Systolic Blood Pressure', 'Diastolic Blood Pressure']].astype(int)
+```
+
+#### Drop original blood pressure column 
+
+```{.python}
+df = df.drop(df.columns[[3]], axis = 1)
+```
+
+#### Creating dummy variables for gender
+
+```{.python}
+df['Sex'] = df['Sex'].map({'Male': 1, 'Female': 0})
+```
+
+#### Drop columns that I do not need
+
+```{.python}
+df = df.drop('Hemisphere', axis = 1)
+df = df.drop('Country', axis = 1)
+df = df.drop('Continent', axis = 1)
+df = df.drop('Income', axis = 1)
+```
+
+#### Generate updated table overview
+
+```{.python}
+df.head()
+```
+#### Generate correlation matrix of numeric values only
+
+```{.python}
+df.corr(numeric_only=True)
+```
+#### Generate discription of data (e.g. mean, median, mode)
+
+```{.python}
+df.describe()
+```
+
+#### Set plot style to whitegrid
+
+```{.python}
+sns.set(style="whitegrid")
+```
+
+#### Create age bins
+
+```{.python}
+age_bins = [0, 18, 25, 35, 45, 55, 65, 75, 85, 100]
+```
+
+#### Create age groups
+
+```{.python}
+age_labels = ['0-17', '18-24', '25-34', '35-44', '45-54', '55-64', '65-74', '75-84', '85-100']
+```
+
+#### Label x and y axis
+
+```{.python}
+df['Age Group'] = pd.cut(df['Age'], bins=age_bins, labels=age_labels, right=False)
+```
+
+#### Count numbers of patients under each age group
+
+```{.python}
+print(df['Age Group'].value_counts())
+```
+
+#### Generate stacked bar chart
+
+```{.python}
+plt.figure(figsize=(10, 6))
+sns.histplot(data=df, x='Age Group', hue='Heart Attack Risk', multiple='stack', shrink=0.8)
+plt.title('Heart Attack Risk by Age Groups')
+plt.xlabel('Age Groups')
+plt.ylabel('No. of Patients')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+```
+
+#### Generate correlation heatmap
+
+```{.python}
+plt.figure(figsize=(12, 8))
+sns.heatmap(correlation_matrix, cmap='Reds', square=True)
+plt.title("Heart Attack Correlation Heatmap")
+plt.tight_layout()
+plt.show()
+```
+
+#### Generate pie chart of at-risk and not-at-risk patient count
+
+```{.python}
+class_counts = df['Heart Attack Risk'].value_counts()
+labels = ['Not at Risk (0)', 'At Risk (1)']
+colors = ['skyblue', 'salmon']
+```
+
+```{.python}
+plt.figure(figsize=(6, 6))
+plt.pie(class_counts, labels=labels, autopct='%1.1f%%', startangle=90, colors=colors, explode=(0, 0.1))
+plt.title('Distribution of Heart Attack Risk Classes')
+plt.show()
+```
+
+#### Generate boxplot
+
+```{.python}
+plt.figure(figsize=(8, 6))
+sns.boxplot(data=df, x='Heart Attack Risk', y='Cholesterol')
+plt.title('Cholesterol Distribution by Heart Attack Risk (Boxplot)')
+plt.xlabel('Heart Attack Risk')
+plt.ylabel('Cholesterol')
+plt.tight_layout()
+plt.show()
+```
+
