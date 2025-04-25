@@ -1,6 +1,6 @@
 ---
 title: "Harvest City: The Intelligent Procurement System Project"
-description: "This report discusses about the failures of the Harvest City Convention Centre Complex project."
+description: "Dicusses the project management failures of the Harvest City Convention Centre Complex project."
 author: "Jia Wen Cheng"
 categories: [Business, Project Management, Operations Management]
 image: "../../assets/photo1.PNG"

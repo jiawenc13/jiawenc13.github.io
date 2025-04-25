@@ -1,6 +1,6 @@
 ---
 title: "Strong Roots Supply Chain Strategy Report"
-description: "Report on supply chain challenges and the proposed recommendations for an Irish frozen food company."
+description: "Report on supply chain challenges and proposed solutions for an Irish frozen food company."
 author: "Jia Wen Cheng"
 categories: [Business, Supply Chain, SCM, Operations]
 image: "../../assets/photo3.PNG"

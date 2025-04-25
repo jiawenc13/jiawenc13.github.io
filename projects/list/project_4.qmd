@@ -1,12 +1,15 @@
 ---
-title: "Deep Dive - E-Waste: A Problem That is Being Forgotten. A Problem We’ve All Contributed To"
-description: "This project explores the critical aspects of E-Wastes."
+title: "Deep Dive: Over-Consumption and Consumerism of E-Wastes"
+description: "Explores the psychological factors that contribute to the increasing generation of electronic waste."
 author: "Jia Wen Cheng"
 categories: [Business, Sustainability, Responsible Management]
 image: "../../assets/photo4.PNG"
 ---
 ---
-<br><br>
-This is a 
+
+
+This PowerPoint slide explores insights into the unconscious drivers behind the growing generation of electronic waste, with a particular focus on mobile phones, laptops, and other communication devices. As these technologies continue to evolve rapidly in the past decade and become more widely accessible, this advancement is simultaneously accelerating the production of e-waste. Factors that causes this includes both business and consumers psychology.
+
+<br>
 
 <iframe src="../../assets/project4.pdf" width="110%" height="600px"></iframe>

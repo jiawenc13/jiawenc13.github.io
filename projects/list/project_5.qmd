@@ -1,0 +1,9 @@
+---
+title: "Research Paper: Heart Attack Risk Prediction"
+description: "This research paper discusses the experimenting of three machine learning algorithms applied on a dataset from kaggle."
+author: "Jia Wen Cheng"
+categories: [Data Analytics, Machine Learning, Data]
+image: "../../assets/photo5.jpg"
+---
+
+---

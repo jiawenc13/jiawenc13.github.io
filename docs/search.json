@@ -102,7 +102,7 @@
     "href": "skills.html#professional-skills",
     "title": "Skills",
     "section": "Professional Skills",
-    "text": "Professional Skills\nwrite a short description for each communications"
+    "text": "Professional Skills"
   },
   {
     "objectID": "intnvol.html",
@@ -116,7 +116,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "This sections contains key projects that I have completed during my college journey. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Dive - E-Waste: A Problem That is Being Forgotten. A Problem We’ve All Contributed To\n\n\n\nBusiness\n\n\nSustainability\n\n\nResponsible Management\n\n\n\nThis project explores the critical aspects of E-Wastes.\n\n\n\n\n\n\n\n\n\n\n\n\n\nE-Waste: A Problem That is Being Forgotten. A Problem That We’ve All Contributed To\n\n\n\nBusiness\n\n\nSustainability\n\n\n\nAn op-ed piece on E-wastes, where we have ignored.\n\n\n\n\n\n\n\n\n\n\n\n\n\nHarvest City: The Intelligent Procurement System Project\n\n\n\nBusiness\n\n\nProject Management\n\n\nOperations Management\n\n\n\nThis report discusses about the failures of the Harvest City Convention Centre Complex project.\n\n\n\n\n\n\n\n\n\n\n\n\n\nStrong Roots Supply Chain Strategy Report\n\n\n\nBusiness\n\n\nSupply Chain\n\n\nSCM\n\n\nOperations\n\n\n\nReport on supply chain challenges and the proposed recommendations for an Irish frozen food company.\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This sections contains key projects that I have completed during my college journey. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDeep Dive: Over-Consumption and Consumerism of E-Wastes\n\n\n\nBusiness\n\n\nSustainability\n\n\nResponsible Management\n\n\n\nExplores the psychological factors that contribute to the increasing generation of electronic waste.\n\n\n\n\n\n\n\n\n\n\n\n\n\nE-Waste: A Problem That is Being Forgotten. A Problem That We’ve All Contributed To\n\n\n\nBusiness\n\n\nSustainability\n\n\n\nAn op-ed on the unconscious causes of e-wastes in the current century.\n\n\n\n\n\n\n\n\n\n\n\n\n\nHarvest City: The Intelligent Procurement System Project\n\n\n\nBusiness\n\n\nProject Management\n\n\nOperations Management\n\n\n\nDicusses the project management failures of the Harvest City Convention Centre Complex project.\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Paper: Heart Attack Risk Prediction\n\n\n\nData Analytics\n\n\nMachine Learning\n\n\nData\n\n\n\nThis research paper discusses the experimenting of three machine learning algorithms applied on a dataset from kaggle.\n\n\n\n\n\n\n\n\n\n\n\n\n\nStrong Roots Supply Chain Strategy Report\n\n\n\nBusiness\n\n\nSupply Chain\n\n\nSCM\n\n\nOperations\n\n\n\nReport on supply chain challenges and proposed solutions for an Irish frozen food company.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/list/project_1.html",
@@ -170,8 +170,29 @@
   {
     "objectID": "projects/list/project_4.html",
     "href": "projects/list/project_4.html",
-    "title": "Deep Dive - E-Waste: A Problem That is Being Forgotten. A Problem We’ve All Contributed To",
+    "title": "Deep Dive: Over-Consumption and Consumerism of E-Wastes",
     "section": "",
-    "text": "This is a"
+    "text": "This PowerPoint slide explores insights into the unconscious drivers behind the growing generation of electronic waste, with a particular focus on mobile phones, laptops, and other communication devices. As these technologies continue to evolve rapidly in the past decade and become more widely accessible, this advancement is simultaneously accelerating the production of e-waste. Factors that causes this includes both business and consumers psychology."
+  },
+  {
+    "objectID": "skills.html#professional-skills-1",
+    "href": "skills.html#professional-skills-1",
+    "title": "Skills",
+    "section": "🤝 Professional Skills",
+    "text": "🤝 Professional Skills\n\n\n\n&lt;div class=\"flip-card-front\"&gt;\n  &lt;img src=\"assets/photo3.PNG\" alt=\"Avatar\" style=\"width: 100%; height: 100%; object-fit: cover;\"&gt;\n&lt;/div&gt;\n&lt;div class=\"flip-card-back\"&gt;\n  &lt;h1&gt;John Doe&lt;/h1&gt;\n  &lt;p&gt;Architect & Engineer&lt;/p&gt;\n  &lt;p&gt;We love that guy&lt;/p&gt;\n&lt;/div&gt;\n\n\n\nwrite a short description for each communications\nhttps://www.w3schools.com/howto/howto_css_skill_bar.asp"
+  },
+  {
+    "objectID": "reflections/index.html",
+    "href": "reflections/index.html",
+    "title": "Reflections",
+    "section": "",
+    "text": "INTRA Reflective Diary 1\n\n\n\n\n\n\n\n\n\n\n\nFeb 10, 2023\n\n\nJia Wen Cheng\n\n\n\n\n\n\n\n\n\n\n\n\nreflection 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nreflection 3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "reflections/list/reflection_1.html",
+    "href": "reflections/list/reflection_1.html",
+    "title": "INTRA Reflective Diary 1",
+    "section": "",
+    "text": "rgjlkrdgjbklsbm"
   }
 ]

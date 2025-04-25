@@ -61,5 +61,23 @@
   },
   "edu_intern.qmd": {
     "edu_intern.html": "7eafbe4e"
+  },
+  "Reflections/index.qmd": {
+    "index.html": "51c2f8f7"
+  },
+  "reflections/index.qmd": {
+    "index.html": "883113a6"
+  },
+  "reflections/list/reflection_3.qmd": {
+    "reflection_3.html": "928d716b"
+  },
+  "reflections/list/reflection_2.qmd": {
+    "reflection_2.html": "df6544fa"
+  },
+  "reflections/list/reflection_1.qmd": {
+    "reflection_1.html": "64ac52be"
+  },
+  "projects/list/project_5.qmd": {
+    "project_5.html": "dcabd3ff"
   }
 }
