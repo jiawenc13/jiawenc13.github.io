@@ -1,0 +1,46 @@
+---
+title: "Resources"
+listing:
+    contents: resources.yml
+    type: table
+    fields: [title, description, author]
+    sort-ui: false
+    filter-ui: false
+---
+---
+
+
+
+This section features a collection of multimedia resources, such as tutorials that helped me learn Quarto and media content that I personally find interesting, including YouTube videos, podcasts, and blog posts. You'll also notice different methods of accessing media, as I want to experiment the difference ways that I can approach this section with Quarto.
+
+<br>
+
+## Media
+
+**Demostrates how to embed media such as YouTube video and Spotify music in Quarto:**
+
+<iframe width="800" height="455" src="https://www.youtube.com/embed/y7ZdBUtQxqg?si=cKaEVjYSY1Q5-99o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Demostrates how to approach listing in Quarto:**
+
+<iframe width="800" height="455" src="https://www.youtube.com/embed/bv_Cw-3HI1Y?si=0aP2h2lZMsz_61r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**"Desicion Tree: Important things to know" by Intuitive Machine Learning**
+
+[![](../../assets/photo8.png)](https://www.youtube.com/watch?v=JcI5E2Ng6r4)
+
+**"StatQuest: Logistics Regression" by StatQuest with Josh Starmer**
+
+[![](../../assets/photo9.jpg)](https://www.youtube.com/watch?v=yIYKR4sgzI8&t=189s)
+
+<br>
+
+**"TED Talks Daily: The power of gaming together in a lonely world" by Laura Miele**
+This is a psychology related topic that I'm genuinely interested in. I've completed an essay in 2nd year which explores the causes of game addiction.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/674NnkKouirq73uIX30MV5?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<br>
+
+## Blogs

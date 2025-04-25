@@ -2,7 +2,7 @@
 title: "Data Preprocessing of Heart Attack Risk Prediction Datasets"
 description: "Demostrates the steps I took for cleaning and preprocessing datasets before applying ML models"
 author: "Jia Wen Cheng"
-categories: [Data Analytics, Machine Learning, Data]
+categories: [Data Analytics, Machine Learning, Python]
 image: "../../assets/photo5.jpg"
 ---
 

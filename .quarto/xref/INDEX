@@ -82,5 +82,11 @@
   },
   "media_blog.qmd": {
     "media_blog.html": "671ca732"
+  },
+  "media_blog/index.qmd": {
+    "index.html": "0824725a"
+  },
+  "resources/index.qmd": {
+    "index.html": "ba323f45"
   }
 }

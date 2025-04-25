@@ -21,9 +21,7 @@ website:
         text: SKILLS
       - href: projects/index.qmd
         text: PROJECTS
-      - href: media_blog.qmd
-        text: MEDIA & BLOGS
-      - href: resources.qmd
+      - href: resources/index.qmd
         text: RESOURCES
     right:
       - icon: linkedin
