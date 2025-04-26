@@ -3,7 +3,7 @@ title: "E-Portfolio - Final Reflection"
 description: "Reflection piece on the learnings gained from developing this e-portfolio"
 author: "Jia Wen Cheng"
 categories: [Workflow, Data Management, Reflection]
-image: "../../assets/photo10.jpg"
+image: "../assets/photo10.jpg"
 ---
 
 Throughout the creation of this ePortfolio, I’ve gained hands-on experience with Quarto and GitHub as a first-time user. I learned the difference between CSS and SCSS, and how they can be used to style and customise the look of a website. I also explored how to structure and present project contents using Quarto’s listing feature. Toward the end of the process, I became more confident in using Git, particularly understanding how to use git commit, git push, and quarto render effectively. These technical skills have not only helped me complete this project but will also support me in future development tasks.

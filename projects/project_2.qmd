@@ -3,7 +3,7 @@ title: "E-Waste: A Problem That is Being Forgotten. A Problem That We've All Con
 description: "An op-ed on the unconscious causes of e-wastes in the current century."
 author: "Jia Wen Cheng"
 categories: [Business, Sustainability]
-image: "../../assets/photo2.PNG"
+image: "../assets/photo2.PNG"
 ---
 
 

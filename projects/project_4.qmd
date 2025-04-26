@@ -3,7 +3,7 @@ title: "Deep Dive: Over-Consumption and Consumerism of E-Wastes"
 description: "Explores the psychological factors that contribute to the increasing generation of electronic waste."
 author: "Jia Wen Cheng"
 categories: [Business, Sustainability, Responsible Management]
-image: "../../assets/photo4.PNG"
+image: "../assets/photo4.PNG"
 ---
 ---
 
