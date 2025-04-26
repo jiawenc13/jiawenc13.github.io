@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Jia Wen Cheng">
-<meta name="description" content="Explores the psychological factors that contribute to the increasing generation of electronic waste.">
 
-<title>Deep Dive: Over-Consumption and Consumerism of E-Wastes – Jia Wen Cheng</title>
+<title>Projects – Jia Wen Cheng</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../assets/logo1.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -69,7 +69,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -119,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">SKILLS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects_temp/index.html"> 
+    <a class="nav-link active" href="../projects/index.html" aria-current="page"> 
 <span class="menu-text">PROJECTS</span></a>
   </li>  
   <li class="nav-item">
@@ -165,29 +223,13 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Deep Dive: Over-Consumption and Consumerism of E-Wastes</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Business</div>
-    <div class="quarto-category">Sustainability</div>
-    <div class="quarto-category">Responsible Management</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Explores the psychological factors that contribute to the increasing generation of electronic waste.
-  </div>
+<h1 class="title">Projects</h1>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Jia Wen Cheng </p>
-          </div>
-  </div>
     
   
     
@@ -198,15 +240,158 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<hr>
-<p>This PowerPoint slide explores insights into the unconscious drivers behind the growing generation of electronic waste, with a particular focus on mobile phones, laptops, and other communication devices. As these technologies continue to evolve rapidly in the past decade and become more widely accessible, this advancement is simultaneously accelerating the production of e-waste. Factors that causes this includes both business and consumers psychology.</p>
-<p><br></p>
-<iframe src="../../assets/project4.pdf" width="110%" height="600px">
-</iframe>
+<p>This sections contains key projects that I have completed during my college journey. <br><br></p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMEFuYWx5dGljcyUyQ01hY2hpbmUlMjBMZWFybmluZyUyQ1B5dGhvbg==" data-listing-file-modified-sort="1745619711335" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<a href="../projects/project_5.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo5.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Preprocessing of Heart Attack Risk Prediction Datasets
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMEFuYWx5dGljcw=='); return false;">
+Data Analytics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('TWFjaGluZSUyMExlYXJuaW5n'); return false;">
+Machine Learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">
+Python
+</div>
+</div>
+<div class="card-text listing-description">
+Demostrates the steps I took for cleaning and preprocessing datasets before applying ML models
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="QnVzaW5lc3MlMkNTdXN0YWluYWJpbGl0eSUyQ1Jlc3BvbnNpYmxlJTIwTWFuYWdlbWVudA==" data-listing-file-modified-sort="1745601537175" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<a href="../projects/project_4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo4.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Deep Dive: Over-Consumption and Consumerism of E-Wastes
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VzdGFpbmFiaWxpdHk='); return false;">
+Sustainability
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzcG9uc2libGUlMjBNYW5hZ2VtZW50'); return false;">
+Responsible Management
+</div>
+</div>
+<div class="card-text listing-description">
+Explores the psychological factors that contribute to the increasing generation of electronic waste.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="QnVzaW5lc3MlMkNTdXN0YWluYWJpbGl0eQ==" data-listing-file-modified-sort="1745619706963" data-listing-reading-time-sort="5" data-listing-word-count-sort="933">
+<a href="../projects/project_2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo2.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+E-Waste: A Problem That is Being Forgotten. A Problem That We’ve All Contributed To
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VzdGFpbmFiaWxpdHk='); return false;">
+Sustainability
+</div>
+</div>
+<div class="card-text listing-description">
+An op-ed on the unconscious causes of e-wastes in the current century.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="QnVzaW5lc3MlMkNQcm9qZWN0JTIwTWFuYWdlbWVudCUyQ09wZXJhdGlvbnMlMjBNYW5hZ2VtZW50" data-listing-file-modified-sort="1745619701911" data-listing-reading-time-sort="10" data-listing-word-count-sort="1961">
+<a href="../projects/project_1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo1.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Harvest City: The Intelligent Procurement System Project
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvamVjdCUyME1hbmFnZW1lbnQ='); return false;">
+Project Management
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('T3BlcmF0aW9ucyUyME1hbmFnZW1lbnQ='); return false;">
+Operations Management
+</div>
+</div>
+<div class="card-text listing-description">
+Dicusses the project management failures of the Harvest City Convention Centre Complex project.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="QnVzaW5lc3MlMkNTdXBwbHklMjBDaGFpbiUyQ1NDTSUyQ09wZXJhdGlvbnM=" data-listing-file-modified-sort="1745600833811" data-listing-reading-time-sort="12" data-listing-word-count-sort="2219">
+<a href="../projects/project_3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo3.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Strong Roots Supply Chain Strategy Report
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VwcGx5JTIwQ2hhaW4='); return false;">
+Supply Chain
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U0NN'); return false;">
+SCM
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('T3BlcmF0aW9ucw=='); return false;">
+Operations
+</div>
+</div>
+<div class="card-text listing-description">
+Report on supply chain challenges and proposed solutions for an Irish frozen food company.
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
