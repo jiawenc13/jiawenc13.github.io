@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Skills – Jia Wen Cheng</title>
+<title>Projects – Jia Wen Cheng</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./assets/logo1.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2253376e7ef74b4c469abd526837ec6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../assets/logo1.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-2253376e7ef74b4c469abd526837ec6c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,9 +69,67 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -79,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Jia Wen Cheng</span>
     </a>
   </div>
@@ -90,7 +150,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">HOME</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -99,29 +159,29 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about-me">    
         <li>
-    <a class="dropdown-item" href="./resume.html">
+    <a class="dropdown-item" href="../resume.html">
  <span class="dropdown-text">CV</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./edu_intern.html">
+    <a class="dropdown-item" href="../edu_intern.html">
  <span class="dropdown-text">Education &amp; Internship</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./moreaboutme.html">
+    <a class="dropdown-item" href="../moreaboutme.html">
  <span class="dropdown-text">More About Me</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./skills.html" aria-current="page"> 
+    <a class="nav-link" href="../skills.html"> 
 <span class="menu-text">SKILLS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects_temp/index.html"> 
+    <a class="nav-link active" href="../projects_temp/index.html" aria-current="page"> 
 <span class="menu-text">PROJECTS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources/index.html"> 
+    <a class="nav-link" href="../resources/index.html"> 
 <span class="menu-text">RESOURCES</span></a>
   </li>  
 </ul>
@@ -142,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="./assets/resume.pdf" target="_blank"> <i class="bi bi-file-earmark-text" role="img">
+    <a class="nav-link" href="../assets/resume.pdf" target="_blank"> <i class="bi bi-file-earmark-text" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -163,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Skills</h1>
+<h1 class="title">Projects</h1>
 </div>
 
 
@@ -180,130 +240,158 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<hr>
-<section id="language" class="level2">
-<h2 class="anchored" data-anchor-id="language">Language</h2>
-<table class="table-striped table-hover caption-top table">
-<thead>
-<tr class="header">
-<th>Language</th>
-<th>Proficiency</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>English</td>
-<td>Native Speaker</td>
-</tr>
-<tr class="even">
-<td>Mandarin (Chinese)</td>
-<td>Native Speaker</td>
-</tr>
-<tr class="odd">
-<td>Cantonese (Chinese)</td>
-<td>Limited Working Proficiency</td>
-</tr>
-<tr class="even">
-<td>German</td>
-<td>Beginners</td>
-</tr>
-</tbody>
-</table>
-<p><br><br></p>
-</section>
-<section id="technological-skills" class="level2">
-<h2 class="anchored" data-anchor-id="technological-skills">Technological Skills</h2>
-<p>
-MS Excel
+<p>This sections contains key projects that I have completed during my college journey. <br><br></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RGF0YSUyMEFuYWx5dGljcyUyQ01hY2hpbmUlMjBMZWFybmluZyUyQ1B5dGhvbg==" data-listing-file-modified-sort="1745619711335" data-listing-reading-time-sort="2" data-listing-word-count-sort="304">
+<a href="../projects_temp/project_5.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo5.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div class="container">
-<div class="skills excel">
-98%
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Preprocessing of Heart Attack Risk Prediction Datasets
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMEFuYWx5dGljcw=='); return false;">
+Data Analytics
 </div>
-</div>
-<p>
-Tableau
-</p>
-<div class="container">
-<div class="skills tableau">
-80%
-</div>
-</div>
-<p>
-SQL
-</p>
-<div class="container">
-<div class="skills sql">
-70%
-</div>
-</div>
-<p>
-Python
-</p>
-<div class="container">
-<div class="skills python">
-67%
-</div>
-</div>
-<p>
+<div class="listing-category" onclick="window.quartoListingCategory('TWFjaGluZSUyMExlYXJuaW5n'); return false;">
 Machine Learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">
+Python
+</div>
+</div>
+<div class="card-text listing-description">
+Demostrates the steps I took for cleaning and preprocessing datasets before applying ML models
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="QnVzaW5lc3MlMkNTdXN0YWluYWJpbGl0eSUyQ1Jlc3BvbnNpYmxlJTIwTWFuYWdlbWVudA==" data-listing-file-modified-sort="1745601537175" data-listing-reading-time-sort="1" data-listing-word-count-sort="66">
+<a href="../projects_temp/project_4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo4.PNG" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div class="container">
-<div class="skills ml">
-65%
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Deep Dive: Over-Consumption and Consumerism of E-Wastes
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VzdGFpbmFiaWxpdHk='); return false;">
+Sustainability
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UmVzcG9uc2libGUlMjBNYW5hZ2VtZW50'); return false;">
+Responsible Management
 </div>
 </div>
-<p>
-Power BI
+<div class="card-text listing-description">
+Explores the psychological factors that contribute to the increasing generation of electronic waste.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="QnVzaW5lc3MlMkNTdXN0YWluYWJpbGl0eQ==" data-listing-file-modified-sort="1745619706963" data-listing-reading-time-sort="5" data-listing-word-count-sort="933">
+<a href="../projects_temp/project_2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo2.PNG" class="thumbnail-image card-img" style="height: 150px;">
 </p>
-<div class="container">
-<div class="skills powerbi">
-35%
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+E-Waste: A Problem That is Being Forgotten. A Problem That We’ve All Contributed To
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VzdGFpbmFiaWxpdHk='); return false;">
+Sustainability
 </div>
 </div>
-<p><br><br></p>
-</section>
-<section id="professional-skills" class="level2">
-<h2 class="anchored" data-anchor-id="professional-skills">Professional Skills</h2>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 51%">
-<col style="width: 48%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Skills</th>
-<th>Descriptions</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Communication</td>
-<td>Effectively communicated both in person and through digital platforms across academic and professional settings.</td>
-</tr>
-<tr class="even">
-<td>Stakeholder Engagement</td>
-<td>Collaborated with both internal and external stakeholders during internship effectively and efficiently.</td>
-</tr>
-<tr class="odd">
-<td>Teamwork</td>
-<td>Contributed to groups projects in both academic and professional settings.</td>
-</tr>
-<tr class="even">
-<td>Time Management</td>
-<td>Successfully managed responsibilities across multiple funding programme teams simutaneously within tight deadlines.</td>
-</tr>
-<tr class="odd">
-<td>Adaptability</td>
-<td>Quickly adapted to new tools, platforms, and workflows in dynamic academic and professional environments.</td>
-</tr>
-</tbody>
-</table>
-
-
-</section>
-
-</main> <!-- /main -->
+<div class="card-text listing-description">
+An op-ed on the unconscious causes of e-wastes in the current century.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="QnVzaW5lc3MlMkNQcm9qZWN0JTIwTWFuYWdlbWVudCUyQ09wZXJhdGlvbnMlMjBNYW5hZ2VtZW50" data-listing-file-modified-sort="1745619701911" data-listing-reading-time-sort="10" data-listing-word-count-sort="1961">
+<a href="../projects_temp/project_1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo1.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Harvest City: The Intelligent Procurement System Project
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvamVjdCUyME1hbmFnZW1lbnQ='); return false;">
+Project Management
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('T3BlcmF0aW9ucyUyME1hbmFnZW1lbnQ='); return false;">
+Operations Management
+</div>
+</div>
+<div class="card-text listing-description">
+Dicusses the project management failures of the Harvest City Convention Centre Complex project.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="QnVzaW5lc3MlMkNTdXBwbHklMjBDaGFpbiUyQ1NDTSUyQ09wZXJhdGlvbnM=" data-listing-file-modified-sort="1745600833811" data-listing-reading-time-sort="12" data-listing-word-count-sort="2219">
+<a href="../projects_temp/project_3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/photo3.PNG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Strong Roots Supply Chain Strategy Report
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
+Business
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U3VwcGx5JTIwQ2hhaW4='); return false;">
+Supply Chain
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('U0NN'); return false;">
+SCM
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('T3BlcmF0aW9ucw=='); return false;">
+Operations
+</div>
+</div>
+<div class="card-text listing-description">
+Report on supply chain challenges and proposed solutions for an Irish frozen food company.
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

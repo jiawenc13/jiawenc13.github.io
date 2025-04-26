@@ -19,7 +19,7 @@ website:
             text: More About Me
       - href: skills.qmd
         text: SKILLS
-      - href: projects/index.qmd
+      - href: projects_temp/index.qmd
         text: PROJECTS
       - href: resources/index.qmd
         text: RESOURCES

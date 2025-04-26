@@ -12,5 +12,15 @@
       "/projects/project_1.html",
       "/projects/project_3.html"
     ]
+  },
+  {
+    "listing": "/projects_temp/index.html",
+    "items": [
+      "/projects_temp/project_5.html",
+      "/projects_temp/project_4.html",
+      "/projects_temp/project_2.html",
+      "/projects_temp/project_1.html",
+      "/projects_temp/project_3.html"
+    ]
   }
 ]
