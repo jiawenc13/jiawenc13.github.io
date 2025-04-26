@@ -6,7 +6,7 @@ categories: [Business, Supply Chain, SCM, Operations]
 image: "../../assets/photo3.PNG"
 ---
 
-[📄 PDF](../../assets/project3.pdf){target="_blank"}
+[📄 PDF](../assets/project3.pdf){target="_blank"}
 
 ---
 

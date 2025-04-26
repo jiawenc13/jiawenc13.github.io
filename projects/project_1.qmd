@@ -6,7 +6,7 @@ categories: [Business, Project Management, Operations Management]
 image: "../../assets/photo1.PNG"
 ---
 
-[📄 PDF](../../assets/project1.pdf){target="_blank"}
+[📄 PDF](../assets/project1.pdf){target="_blank"}
 
 ---
 
